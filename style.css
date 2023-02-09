@@ -1,0 +1,28 @@
+* {
+    background-color:#F0D2D1;
+    color: #ED254E;
+    
+}
+
+.heading {
+
+    text-align: center;
+    font-weight: 800;
+
+}
+
+.foodlist {
+
+    font-size: xx-large;
+    border: groove 10px;
+    width: fit-content;
+    height: max-content;
+}
+
+.foodpix {
+
+    width: 300px;
+    height: auto;
+    align-self: auto;
+    border: #77B28C groove 10px;
+}
